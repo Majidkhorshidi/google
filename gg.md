@@ -1,9 +1,3 @@
 {
-  "c1": "qNbKMOY1fCeJQiD7oBFz07dWkf3i/Ahdp7la6JrGqO0=",
-  "c2": "hzZCucc5j1ePcACiSE3Km5lGRDioQtx8zBj/D5io1k4=",
-  "c3": "SjRdHGBK0pcbMZO8KR0xpFJsdXH6Yr5CgLoHk0Z1P6U=",
-  "c4": "6P/fEa3AG1ELhG10SwzGbwKLVCLZXH07/ZzFaIzhmTbaFCji2sGtQA6dUYg10zRn",
-  "c5": "L074ACTXh01elN6SFEkj8a2dXc3yjc+xq/uO82hU9J15wloWPgblDmfa1fs5T3Wn",
-  "c6": "OPf+545bx7zLoyiPttY0p/s443PvIYGp8ubfmsx9hdFa+r2tyIhJZStB+aoGVAZS",
-  "c7": "2D+qCLiTDjTmpcfB9FJXQ9kj6MSehGaxgeSqRbNEZyFekN+HE7knFKBRKdWwqzhO"
+  "url": "https://vcs10.vcfile.info/service/file?token=THV2SEJwWitldDRKTVZlTktHank0bkxJWk9ZMWhYWnpDNWY5QnpGdmhnR0xScHByVXlacDhnMTNicG9EWmFVdDRTajMxenU0UVBxbTNRZnZJVm9QcGdzUTgrZzM2c0llNVk5US9KZFNQNStqRWZicE9BaEUrRkUwTFNxcFRadCtYMytCQWh1NkJoYU1VdG11R1o5clV5Uk1pS05QcXh4SnR5Y2E0elprOFpMZ2Y2SHFucTJlbjlmNXhUTnlPUXhielFKWUE3S3FDQkZMWXV1U2RxZGtkUTh0Rk5VUlVacHFLT2ZDbUJzeXR6L2NmZlZNOTk5b2hFTUFDVjFsa3QyQw==&fn=7\53534ee2-8b8d-4c76-b8c1-1a4aca763863.mp4"
 }
